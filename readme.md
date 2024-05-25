@@ -1,3 +1,4 @@
-# Machine Learninng algorithms implemented from scratch and using sklearn\
+# Machine Learninng algorithms implemented from scratch and using sklearn
 
-- Linear Regression
+- Simple Linear Regression
+- Multiple Linear Regression
