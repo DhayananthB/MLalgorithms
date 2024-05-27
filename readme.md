@@ -3,3 +3,5 @@
 - Simple Linear Regression
 - Multiple Linear Regression
 - Batch Gradient Descent
+- Stochastic Gradient Descent
+
